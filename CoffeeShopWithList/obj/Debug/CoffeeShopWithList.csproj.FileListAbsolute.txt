@@ -1,0 +1,10 @@
+C:\Users\Prince\source\repos\CoffeeShopWithList\CoffeeShopWithList\bin\Debug\CoffeeShopWithList.exe.config
+C:\Users\Prince\source\repos\CoffeeShopWithList\CoffeeShopWithList\bin\Debug\CoffeeShopWithList.exe
+C:\Users\Prince\source\repos\CoffeeShopWithList\CoffeeShopWithList\bin\Debug\CoffeeShopWithList.pdb
+C:\Users\Prince\source\repos\CoffeeShopWithList\CoffeeShopWithList\obj\Debug\CoffeeShopWithList.csprojAssemblyReference.cache
+C:\Users\Prince\source\repos\CoffeeShopWithList\CoffeeShopWithList\obj\Debug\CoffeeShopWithList.CoffeeShopByList.resources
+C:\Users\Prince\source\repos\CoffeeShopWithList\CoffeeShopWithList\obj\Debug\CoffeeShopWithList.Properties.Resources.resources
+C:\Users\Prince\source\repos\CoffeeShopWithList\CoffeeShopWithList\obj\Debug\CoffeeShopWithList.csproj.GenerateResource.cache
+C:\Users\Prince\source\repos\CoffeeShopWithList\CoffeeShopWithList\obj\Debug\CoffeeShopWithList.csproj.CoreCompileInputs.cache
+C:\Users\Prince\source\repos\CoffeeShopWithList\CoffeeShopWithList\obj\Debug\CoffeeShopWithList.exe
+C:\Users\Prince\source\repos\CoffeeShopWithList\CoffeeShopWithList\obj\Debug\CoffeeShopWithList.pdb
